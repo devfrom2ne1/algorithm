@@ -1,4 +1,9 @@
 import java.util.*;
+/**
+ * 📌 플랫폼 : 프로그래머스
+ * 📍 문제명 : 거리두기 확인하기 (2021 카카오 채용연계형 인턴십)
+ * 🔗 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/81302
+ */
 
 class Solution {
     public int[] solution(String[][] places) {
