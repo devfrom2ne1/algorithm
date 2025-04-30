@@ -43,7 +43,7 @@
 |------|--------|--------|------|
 | 01 | 교점에 별 만들기 | Level 2 | [🔗](./03_array/01_교점에_별_만들기_Level2.java) |
 | 02 | 삼각 달팽이 | Level 2 | [🔗](./03_array/02_삼각_달팽이_Level2.java) |
-| 03 | 거리두기 확인하기 | Level 2 | [🔗](./programmers/03_array/03_거리두기_확인하기_Level2.java) |
+| 03 | 거리두기 확인하기 | Level 2 | [🔗](https://github.com/devfrom2ne1/algorithm/blob/main/programmers/03_array/03_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0_Level2.java)|
 | 04 | 행렬의 곱셈 | Level 2 | [🔗](./03_array/04_행렬의_곱셈_Level2.java) |
 
 ---
