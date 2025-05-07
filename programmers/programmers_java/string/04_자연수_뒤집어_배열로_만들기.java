@@ -1,5 +1,4 @@
-import java.util.*;
-import java.math.*;
+package programmers_java.string;
 
 class Solution {
     public int[] solution(long n) {

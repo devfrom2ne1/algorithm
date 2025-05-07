@@ -1,3 +1,5 @@
+package programmers_java.array;
+
 import java.util.*;
 /**
  * 📌 플랫폼 : 프로그래머스
