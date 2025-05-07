@@ -1,4 +1,4 @@
-package programmers_java.string;
+package string;
 
 public class 04_시저_암호 {
     class Solution {

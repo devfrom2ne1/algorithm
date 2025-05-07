@@ -1,4 +1,4 @@
-package programmers_java.string;
+package string;
 
 class Solution {
     public int[] solution(long n) {

@@ -1,4 +1,4 @@
-package programmers_java.array;
+package array;
 
 import java.util.*;
 /**
