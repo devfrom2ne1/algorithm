@@ -37,17 +37,6 @@
 
 > 각 장마다 풀어본 문제들을 아래와 같이 정리합니다.
 
-### ✅ 3장. 배열
-
-| 번호 | 문제명 | 난이도 | 풀이 |
-|------|--------|--------|------|
-| 01 | 교점에 별 만들기 | Level 2 |  |
-| 02 | 삼각 달팽이 | Level 2 |  |
-| 03 | 거리두기 확인하기 | Level 2 | [🔗](https://github.com/devfrom2ne1/algorithm/blob/main/programmers/03_array/03_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0_Level2.java)|
-| 04 | 행렬의 곱셈 | Level 2 |  |
-
----
-
 
 ## 🔖 진행 방식
 
