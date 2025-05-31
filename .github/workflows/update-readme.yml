@@ -28,10 +28,11 @@ jobs:
         run: |
           bash update-readme.sh
 
-      - name: Commit & push changes
+      - name: Commit and Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add programmers/README.md
-          git commit -m "🔄 자동: README 인덱스 갱신" || echo "No changes to commit"
-          git push
+          git commit -m "🔄 자동: README 인덱스 갱신" || echo "No changes"
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/devfrom2ne1/algorithm.git HEAD:main
+
