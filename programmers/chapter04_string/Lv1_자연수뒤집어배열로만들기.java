@@ -1,5 +1,3 @@
-package string;
-
 class Solution {
     public int[] solution(long n) {
         int[] answer = {};
